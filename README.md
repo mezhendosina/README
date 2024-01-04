@@ -10,4 +10,5 @@
 
 За свои 2 года в Android, создал: 
 - [че задали](https://github.com/mezhendosina/che-zadlai-app) - мобильное приложение электронного дневника
+- [itmo.entrance](https://github.com/mezhendosina/itmo.entrance) - пропуск во все корпуса ИТМО на WearOS
 - [itmo.events](https://github.com/ITMO-Events/itmo-events) - приложение для агрегации мероприятий, проходящих в ИТМО.
